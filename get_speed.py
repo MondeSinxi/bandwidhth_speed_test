@@ -1,7 +1,6 @@
 # Get bandwidth data for home LTE connection
 # saw the project here https://healeycodes.com/webdev/javascript/python/opensource/2019/08/22/bot-vs-isp.html
 
-import os
 import speedtest
 import pandas as pd
 from pathlib import Path
